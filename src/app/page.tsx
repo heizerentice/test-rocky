@@ -261,12 +261,6 @@ export default function Home() {
             <p className="text-white text-base">
               <span>|</span>
               <Link href="/" className="underline">
-                Check nè
-              </Link>
-            </p>
-            <p className="text-white text-base">
-              <span>|</span>
-              <Link href="/" className="underline">
                 Vôi Bọt nè
               </Link>
             </p>
