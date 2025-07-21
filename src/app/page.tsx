@@ -258,6 +258,13 @@ export default function Home() {
               <span>|</span>
               <Link href="/" className="underline">Cookies Setting</Link>
             </p>
+            <p className="text-white text-base">
+              <span>|</span>
+              <Link href="/" className="underline">
+                Check nè
+              </Link>
+            </p>
+
           </div>
         </div>
       </div>
